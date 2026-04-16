@@ -34,15 +34,6 @@ curl -sSL https://raw.githubusercontent.com/maximgalson/fabrika-free/main/instal
 ## Rules
 
 1. **Public repo** — no secrets, no paid content, no internal references
-2. **Funnel to paid** — course leads to content-factory-constructor paid tiers
+2. **Funnel to paid** — course leads to paid tiers on galson.pro
 3. **Self-contained** — must work without any other dependencies
 
-## Wiki
-
-Project page: [[projects/fabrika-free]]
-
-Related:
-- [[projects/content-factory-constructor]]
-- [[projects/fabrika-payload]]
-
-> Wiki: ~/claudecode/.wiki/ | Update wiki page after significant changes.

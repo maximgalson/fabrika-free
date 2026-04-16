@@ -30,11 +30,6 @@ curl -fsSL https://claude.ai/install.sh | bash
 curl -sSL https://raw.githubusercontent.com/maximgalson/fabrika-free/main/install.sh | bash
 ```
 
-Для Windows (PowerShell):
-```powershell
-irm https://raw.githubusercontent.com/maximgalson/fabrika-free/main/install.ps1 | iex
-```
-
 ## Шаг 3: Запусти курс
 
 1. Набери `claude` (если ещё не запущен)
